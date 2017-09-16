@@ -25,7 +25,7 @@ SECRET_KEY = '%h$0^1v+&1uq5*j9g$@as-2)4q%cna%8gs20^bgrfmyj2ss((v'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["127.0.0.1", "http://elu.pythonanywhere.com/"]
 
 
 # Application definition
